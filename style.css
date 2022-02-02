@@ -32,9 +32,7 @@ body  {
   padding: 2rem;
 }
 
-ul {
-  list-style-type: none;
-}
+
 
 button {
   background-color: #706fd3;
@@ -52,7 +50,20 @@ button:hover {
   background-color: #4644b4;
 }
 
+button:focus{
+  background-color:#3f3e94 ;
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
 ul li {
   margin: 1rem 0;
   font-size: 1rem;
+}
+
+h2 {
+  padding: 2rem;
 }
