@@ -1,0 +1,16 @@
+git init
+
+git add .
+
+git commit -m "mensaje"
+
+git remote add origin http://github.com/alainjpdev/repository.git
+
+
+git push origin master
+
+git push origin -u origin 
+
+or
+
+git remote rm origin
