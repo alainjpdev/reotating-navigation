@@ -14,3 +14,6 @@ git push origin -u origin
 or
 
 git remote rm origin
+
+
+// git push --set-uostream origin master
